@@ -1,0 +1,23 @@
+ls
+cd ..
+echo Hello?
+sdifjwio
+iwoejo
+ji
+echo hi
+ls
+exit
+input
+exit
+input
+input
+input
+exit
+hello
+input
+exit
+hello
+input
+input
+input
+exit
